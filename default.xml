@@ -3,4 +3,6 @@
     <remote name="github" fetch="https://github.com/Pisamad"/>
     <default revision="master" remote="github" sync-j="8"/>
     <project name="testrepogit.git" remote="github" path="test-repo" />
+    <project name="ez-table.git" remote="github" path="lib/ezTable" />
+    <project name="p4api.git" remote="github" path="lib/p4Api" />
 </manifest>
